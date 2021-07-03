@@ -1,0 +1,46 @@
+{
+  "notes": [
+    {
+      "wname": "AKM",
+      "wammo": "7.62mm",
+      "avatar": "/akm.png",
+      "details": "powerful AR but little slow.......The AKM is a 7.62×39mm assault rifle designed by Mikhail Kalashnikov. It is a common modernised variant of the AK-47 rifle developed in the 1940s",
+      "id": 1
+    },
+    {
+      "wname": "M416",
+      "wammo": "5.66mm",
+      "avatar": "/m416.png",
+      "details": "stable AR and mostly liked ....The Heckler & Koch HK416 is an assault rifle designed and manufactured by the German company Heckler & Koch",
+      "id": 2
+    },
+    {
+      "wname": "AWM",
+      "wammo": "0.44Magnum",
+      "avatar": "/awm.png",
+      "details": "powerful Sniper, rarely found.......The Accuracy International AWM is a bolt-action sniper rifle manufactured by Accuracy International designed for magnum rifle cartridges. The Accuracy International AWM is also unofficially known as the AWSM, which typically denotes AWM rifles chambered in .338 Lapua Magnum ",
+      "id": 3
+    },
+    {
+      "wname": "Vector",
+      "wammo": "0.45CP",
+      "avatar": "/vector.png",
+      "details": "best SMG but low ammo..............The KRISS Vector is a series of weapons based upon the parent submachine gun design developed by the American company KRISS USA, formerly Transformational Defense Industries. They use an unconventional delayed blowback system combined with in-line design to reduce perceived recoil and muzzle climb ",
+      "id": 4
+    },
+    {
+      "wname": "S12K",
+      "wammo": "12 Gauge",
+      "avatar": "/s12k.png",
+      "details": "powerful shotgun....The Saiga-12 (/ˈsaɪɡə/) is a shotgun available in a wide range of configurations, patterned after the Kalashnikov series of rifles and named after the Saiga antelope.",
+      "id": 5
+    },
+    {
+      "wname": "SKS",
+      "wammo": "7.62mm",
+      "avatar": "/sks.png",
+      "details": "The SKS is a semi-automatic carbine chambered for the 7.62×39mm round, designed in 1943 by Sergei Gavrilovich Simonov. A reliable, simply designed, and relatively inexpensive weapon, the SKS was first produced in the Soviet Union but later widely exported and manufactured by various nations.",
+      "id": 6
+    }
+  ]
+}
